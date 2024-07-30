@@ -15,4 +15,29 @@ The left shift operator shifts the bits of its first operand to the left by the 
 Refer to the attached file.
 ## Output:
 Refer to the attached file.
+## Program 2
+## Aim:
+To check which coordinate lies in which quadrant 
+## Theory  
+In the Cartesian coordinate system, a point is defined by its coordinates (x, y). The plane is divided into four quadrants, determined by the signs of the x and y coordinates. The quadrants are defined as follows:
+
+Quadrant I: Both x and y are positive. (x > 0, y > 0)
+Quadrant II: x is negative and y is positive. (x < 0, y > 0)
+Quadrant III: Both x and y are negative. (x < 0, y < 0)
+Quadrant IV: x is positive and y is negative. (x > 0, y < 0)
+the program uses the operators to get the desired result  
+## Code:
+Refer to the attatched file.  
+## Output:
+Refer to the attached file.  
+## Program 3:
+## Aim:
+program to calculate teh grade of student
+## Theory:
+This C++ program calculates the grade of a student based on the marks obtained in five subjects: Mathematics, English, Mara (possibly a local language or subject), Science, and Social Studies (SST). The program takes input marks for each subject, calculates the average percentage, and then determines the grade based on the average.
+The program uses conditional statements (if, else if, else) to determine the grade based on the average percentage.
+## Code:
+Refer to the attached file.
+## Output:
+Refer to the attached file.
 
